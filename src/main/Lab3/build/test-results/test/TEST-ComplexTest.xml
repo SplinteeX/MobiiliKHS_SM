@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ComplexTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-01-26T15:40:30" hostname="Jesper-MacBook-Pro.local" time="0.015">
+  <properties/>
+  <testcase name="testEquals1()" classname="ComplexTest" time="0.007"/>
+  <testcase name="testEquals2()" classname="ComplexTest" time="0.001"/>
+  <testcase name="testMinus()" classname="ComplexTest" time="0.0"/>
+  <testcase name="testAbs1()" classname="ComplexTest" time="0.0"/>
+  <testcase name="testAbs2()" classname="ComplexTest" time="0.001"/>
+  <testcase name="testPlus()" classname="ComplexTest" time="0.0"/>
+  <testcase name="testConstructor1()" classname="ComplexTest" time="0.001"/>
+  <testcase name="testConstructor2()" classname="ComplexTest" time="0.0"/>
+  <testcase name="testTimes1()" classname="ComplexTest" time="0.001"/>
+  <testcase name="testTimes2()" classname="ComplexTest" time="0.001"/>
+  <testcase name="testTimes3()" classname="ComplexTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
